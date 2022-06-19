@@ -1,1 +1,0 @@
-filter out words with 5 characters.
